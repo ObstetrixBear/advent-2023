@@ -1,3 +1,7 @@
 # Advent of Code 2023
 
-So it's time to practice once more. This is my attempt to keep my mind and skills reasonably agile. I have a notion that I want to use different languages for the various tasks. It'd be neat to see if I could wrangle Forth into doing something nontrivial.
+'tis the season to be jolly. So I thought I might spread the joy around by documenting my solutions for AOC2023. This is a spare-time project, so no need to go crazy.
+
+## Organization
+
+Each task will be placed in a subfolder. Depending on which language it uses, it may or may not be immediately runnable. We'll see.
